@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+.env
+
+# Next.js
+.next/
+out/
+*.log
+*.tsbuildinfo
